@@ -1,5 +1,9 @@
 # GTA III Android — Native Cheat Menu
 
+https://forumstatic.ru/files/0019/f0/2b/27221.png
+
+https://forumstatic.ru/files/0019/f0/2b/52864.png
+
 Модификация для Android-версии **Grand Theft Auto III** (Rockstar Games),
 добавляющая внутриигровое чит-меню на **Dear ImGui** с прямым вызовом
 нативных функций игры.
